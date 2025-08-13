@@ -1,1 +1,1 @@
-Nitt VLSI lab misc resources
+Nitt VLSI lab misc resources repo
